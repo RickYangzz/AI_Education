@@ -1,9 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T09:18:38.841Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.5" etag="31jxTsOLbdlGypHksG2l" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T12:44:16.769Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2ydx--dkc8wrSc8XX_ON" version="22.1.5" type="github">
   <diagram name="Page-1" id="UcXnSxAR2s9ScuIIi8TF">
-    <mxGraphModel>
+    <mxGraphModel dx="1193" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sMvIjPROLd2NujlQrFik-1" value="教案准备 Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;container=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="360" height="570" as="geometry">
+            <mxRectangle x="140" y="90" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-3" value="老师" style="swimlane;startSize=20;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="120" height="550" as="geometry">
+            <mxRectangle x="260" y="110" width="40" height="550" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-7" value="设定课堂目标" style="whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="sMvIjPROLd2NujlQrFik-3">
+          <mxGeometry x="20" y="80" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="sMvIjPROLd2NujlQrFik-3" source="sMvIjPROLd2NujlQrFik-11" target="sMvIjPROLd2NujlQrFik-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="215" />
+              <mxPoint x="110" y="290" />
+              <mxPoint x="60" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-27" value="满意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="sMvIjPROLd2NujlQrFik-24">
+          <mxGeometry x="-0.2791" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-11" value="审核材料" style="rhombus;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="sMvIjPROLd2NujlQrFik-3">
+          <mxGeometry x="20" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-20" value="成型教案" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="sMvIjPROLd2NujlQrFik-3">
+          <mxGeometry x="25" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-28" value="课堂反思" style="whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="sMvIjPROLd2NujlQrFik-3">
+          <mxGeometry x="28.75" y="412.75" width="71.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-35" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="sMvIjPROLd2NujlQrFik-3">
+          <mxGeometry x="49.38" y="490" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.479;entryY=-0.105;entryDx=0;entryDy=0;entryPerimeter=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="sMvIjPROLd2NujlQrFik-3" source="sMvIjPROLd2NujlQrFik-28" target="sMvIjPROLd2NujlQrFik-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-39" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="sMvIjPROLd2NujlQrFik-3">
+          <mxGeometry x="45" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-40" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" source="sMvIjPROLd2NujlQrFik-39" parent="sMvIjPROLd2NujlQrFik-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="sMvIjPROLd2NujlQrFik-7" target="sMvIjPROLd2NujlQrFik-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="sMvIjPROLd2NujlQrFik-9" target="sMvIjPROLd2NujlQrFik-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="sMvIjPROLd2NujlQrFik-11" target="sMvIjPROLd2NujlQrFik-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-26" value="调整建议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="sMvIjPROLd2NujlQrFik-14">
+          <mxGeometry x="-0.3963" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-4" value="课堂" style="swimlane;startSize=20;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="120" height="550" as="geometry">
+            <mxRectangle x="380" y="110" width="40" height="550" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-22" value="课堂活动" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="sMvIjPROLd2NujlQrFik-4">
+          <mxGeometry x="15" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-2" value="AI" style="swimlane;startSize=20;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="120" height="550" as="geometry">
+            <mxRectangle x="140" y="110" width="50" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-9" value="生成材料" style="whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="sMvIjPROLd2NujlQrFik-2">
+          <mxGeometry x="10" y="140" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="sMvIjPROLd2NujlQrFik-2" source="sMvIjPROLd2NujlQrFik-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-13" value="调整材料" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="sMvIjPROLd2NujlQrFik-2">
+          <mxGeometry x="20" y="250" width="80" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="sMvIjPROLd2NujlQrFik-2" source="sMvIjPROLd2NujlQrFik-31" target="sMvIjPROLd2NujlQrFik-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-31" value="经验积累" style="whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="sMvIjPROLd2NujlQrFik-2">
+          <mxGeometry x="30" y="406.63" width="60" height="42.25" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="sMvIjPROLd2NujlQrFik-20" target="sMvIjPROLd2NujlQrFik-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="sMvIjPROLd2NujlQrFik-22" target="sMvIjPROLd2NujlQrFik-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sMvIjPROLd2NujlQrFik-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="sMvIjPROLd2NujlQrFik-28" target="sMvIjPROLd2NujlQrFik-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
