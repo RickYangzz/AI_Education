@@ -1,0 +1,43 @@
+AI For Education 
+
+https://openai.com/blog/teaching-with-ai
+I found some useful information about AI education on the OpenAI website.
+And a great example of coming up with lesson plans.
+
+读完这个网站的内容，我有些疑问：
+1. 根据描述，貌似chatGPT已经提供了一种application类的服务，但具体又是如何提供服务的？
+2. 这种教学能力能持续进化吗？稳定性如何？
+3. 隐私性如何？信息安全如何做？
+4. 我们的软件又如何完成这类的服务的？
+5. 我们不使用chatGPT，我们自己构建自己AI架构，最终的效果怎么样？
+
+-------------------
+进一步的论文阅读：Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391243
+
+questions:
+1. 通过AI可以对 principle / concept 生成大量的例子，但是一个课堂讲课有明确的任务量，能讲这么多例子吗？
+   是否和教学目标以及教学方式有关系，这更像是一种变革，现有的教育模式如何能接受？
+2. 教师如何取舍？这是否也是对教师任务的一种加重？
+3. Compare and contrast these examples: what different aspects of [concept X] does each highlight? 
+   在这个问题下，教学目标是什么？
+4. Which of these examples demonstrate concept X? Which does not? Explain your reasoning. 
+   在这个问题下，教学目标是为了测试学生的学习情况吗？为什么需要这种测试？背后的教学理论与目标是什么？
+5. 现在看到AI给教师起到的作用只是 一些辅助性的东西。
+   在教学任务繁重，或者主要的教学目标下，这种AI辅助，是否会沦为一种空中阁楼，不切实际，没有提供实际性的作用，难以落地？
+
+
+教师需要知道学生的学习情况，来决定是否进入下一阶段 或者 是否需要调整教学方法。
+教师和学生应该是一种合作共进的关系。
+教师需要保证知识的正确性，交给学生的内容，需要检查和调整。
+
+通过阅读上述文章，我搞明白了，平常测试的唯一目标是为了搞明白学生对什么困惑，学生的弱势在哪里，以进一步帮助学生进步。
+
+而不是盯着好学生、好成绩，做一些无意义的排名。而忽视了作为教师应该做的事：帮助学生战胜自己的弱势，解决学生的困惑（confuse）。
+
+AI对教师的辅助，这篇文章读完了，我的感受是，AI的加入，以及现代计算机技术的加入，可以很好的改良教学过程，改良教学方法。
+但是如何从教学的整体设计上出发，加入AI及计算机科学，来改良教学，这是一种全新的全局思考。
+
+假如我们改良之后的教学很好，我们该和什么样的机构合作呢？毕竟对教学改变了很多，学校是否会接受？
+
+
