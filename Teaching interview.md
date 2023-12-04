@@ -25,6 +25,29 @@
 1. 这节课的目标是什么？
 2. 一节课会有哪些关键模块？各自的耗时会是怎样的？
 3. 可能会出现哪些意外情况及如何处理？例如学生会提问什么样的问题，属于什么范围？不同范围的问题该如何回答？
+```
+Hi Rick, it’s Vivian. You asked me the other week how to plan lessons, and here is the thinking process glow I follow when making a lesson plan. 
+
+First of all, I need to check up on the info of the class, i.e. time, topic of the lesson, number of the students and venue of the class/training session. 
+
+After that, I need to make clear of the lesson aim of this class by asking myself the regular question: What will the students/ trainees be able to do by the end of this class? 
+
+And then I anticipate the possible problems that may take place during the class. For example: one of the target new words is “throat”, and some student may have trouble pronouncing “th” sound, etc. 
+
+Also, before starting to plan the teaching steps, I sometimes bring up the question “What teaching techniques do I want to practice or develop in this lesson?” For example, I’m working on asking ICQs( instruction checking questions), so I will deliberately plan IC questions and write them into my lesson plan. 
+
+With everything above done and ready, I start to work out the lesson steps. The main structure for a lesson is warmer part——> teaching/training part ——> practice part —- > wrap-up part. 
+
+For each step, I plan time, slide pages ( if I give the lesson by PPT ) bullet pointed items for this step. Teachers usually set aside an area labeled Alternatives/ Flexible where we can plan some alternative ideas or activities for this step in case we need to make some spontaneous decisions during the class. 
+
+Between steps, some new teachers plan a segue to help them move smoothly from one part to another. 
+
+Well, the above is pretty much I’d like to share regarding planning a lesson. 
+```
+
+
+
+
 
 
 ### EF Teacher Vivian_zhu Master
