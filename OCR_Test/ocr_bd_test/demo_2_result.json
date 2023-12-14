@@ -1,0 +1,50 @@
+{
+  "words_result": [
+    {
+      "location": { "top": 1, "left": 39, "width": 423, "height": 26 },
+      "words": "The terrible earthquake and the following tsunami"
+    },
+    {
+      "location": { "top": 27, "left": 20, "width": 413, "height": 24 },
+      "words": "have caused so many people's injuries and deaths."
+    },
+    {
+      "location": { "top": 52, "left": 20, "width": 455, "height": 23 },
+      "words": "Besides, many citizens become homeless. We chinese feel"
+    },
+    {
+      "location": { "top": 76, "left": 18, "width": 439, "height": 26 },
+      "words": "greatly sorry for the pains you are suffering. And I"
+    },
+    {
+      "location": { "top": 104, "left": 20, "width": 415, "height": 19 },
+      "words": "do hope you can overcome those great difficulties."
+    },
+    {
+      "location": { "top": 127, "left": 33, "width": 452, "height": 21 },
+      "words": "Please remember Japan isn't alone. People all over the"
+    },
+    {
+      "location": { "top": 153, "left": 13, "width": 472, "height": 23 },
+      "words": "world are lending hands to the areas struck by tsunami"
+    },
+    {
+      "location": { "top": 177, "left": 14, "width": 451, "height": 24 },
+      "words": "and earthquake. Now that the disaster has happened."
+    },
+    {
+      "location": { "top": 202, "left": 14, "width": 456, "height": 28 },
+      "words": "we should face it bravely and rebuild the homes, thus"
+    },
+    {
+      "location": { "top": 230, "left": 12, "width": 461, "height": 28 },
+      "words": "creating a stronger country. Tomorrow is another day"
+    },
+    {
+      "location": { "top": 257, "left": 12, "width": 241, "height": 27 },
+      "words": "All the things will be better."
+    }
+  ],
+  "words_result_num": 11,
+  "log_id": 1735236833659943265
+}

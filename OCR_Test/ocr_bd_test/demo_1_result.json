@@ -1,0 +1,86 @@
+{
+  "words_result": [
+    {
+      "location": { "top": 2, "left": 65, "width": 489, "height": 23 },
+      "words": "l.Write the sentences.(根据要求改句子。)"
+    },
+    {
+      "location": { "top": 38, "left": 68, "width": 424, "height": 23 },
+      "words": "1. We have twelve peaches on the table."
+    },
+    {
+      "location": { "top": 73, "left": 66, "width": 77, "height": 23 },
+      "words": "否定句:"
+    },
+    {
+      "location": { "top": 65, "left": 158, "width": 504, "height": 38 },
+      "words": "We don't have twelve peaches on the table"
+    },
+    {
+      "location": { "top": 108, "left": 67, "width": 124, "height": 22 },
+      "words": "一般疑问句:"
+    },
+    {
+      "location": { "top": 105, "left": 208, "width": 447, "height": 42 },
+      "words": "Do you have twelve peaches onth肯定回答:"
+    },
+    {
+      "location": { "top": 97, "left": 669, "width": 124, "height": 41 },
+      "words": "Yes, we do."
+    },
+    {
+      "location": { "top": 144, "left": 67, "width": 147, "height": 22 },
+      "words": "划线部分提问:"
+    },
+    {
+      "location": { "top": 133, "left": 559, "width": 49, "height": 19 },
+      "words": "table"
+    },
+    {
+      "location": { "top": 142, "left": 227, "width": 499, "height": 40 },
+      "words": "How many peaches you have on the table?"
+    },
+    {
+      "location": { "top": 182, "left": 66, "width": 314, "height": 21 },
+      "words": "2.  My friends have five books."
+    },
+    {
+      "location": { "top": 215, "left": 66, "width": 78, "height": 23 },
+      "words": "否定句:"
+    },
+    {
+      "location": { "top": 203, "left": 159, "width": 50, "height": 46 },
+      "words": "My"
+    },
+    {
+      "location": { "top": 204, "left": 223, "width": 401, "height": 38 },
+      "words": "friends don't have five books"
+    },
+    {
+      "location": { "top": 251, "left": 67, "width": 123, "height": 22 },
+      "words": "一般疑问句:"
+    },
+    {
+      "location": { "top": 240, "left": 205, "width": 82, "height": 43 },
+      "words": "Does"
+    },
+    {
+      "location": { "top": 246, "left": 280, "width": 374, "height": 32 },
+      "words": "your friends have five book否定回答:"
+    },
+    {
+      "location": { "top": 280, "left": 228, "width": 358, "height": 36 },
+      "words": "What does your friends have?"
+    },
+    {
+      "location": { "top": 228, "left": 664, "width": 227, "height": 77 },
+      "words": "No, they don't"
+    },
+    {
+      "location": { "top": 287, "left": 67, "width": 146, "height": 22 },
+      "words": "划线部分提问:"
+    }
+  ],
+  "words_result_num": 20,
+  "log_id": 1735236286412725680
+}
