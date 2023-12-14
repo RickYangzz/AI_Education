@@ -15,6 +15,9 @@
 - deactivate
 
 ## 科大讯飞 OCR 测试结果
+### 官方文档
+https://www.xfyun.cn/doc/words/wordRecg/API.html#%E6%8E%A5%E5%8F%A3%E8%AF%B4%E6%98%8E
+
 ### 主要问题：
 1. 汉语没有正确返回，并且和英文混合在了一起。
 2. 返回内容无法识别，哪部分是人写的，哪部分是印刷体。
