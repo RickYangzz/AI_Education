@@ -1,3 +1,11 @@
+-------------------2023-12-14---------------------------
+1. 收集 OCR 厂家信息
+2. 调用各个厂家的API
+3. 使用同一个测试集，查看效果
+4. 尝试归纳总结出，OCR识别结果的衡量标准
+
+5. 搭建自己的AI模型，查看训练效果。
+
 --------------------2023-12-10--------------------------
 开始学python和AI
 
@@ -23,6 +31,7 @@
 传统数据库（云数据库、关系型数据库、文档型数据库）
 python、Java
 golong （可以编译成 native code）
+https://go.dev/
     - 部署到网站
     - 部署到迷你电脑，树莓派、linux核心、
     - 培训机构、家庭、学校，收每个学期的订阅费
@@ -108,6 +117,7 @@ a. h5架构的研究，经典应用的调查和使用，其背后的技术架构
     - https://flutter.dev/ dart语言
     - https://en.uniapp.dcloud.io/
     - https://dev.weixin.qq.com/docs/framework/（后续调研一下）
+    
 
 b. 数据收集框架和h5的配合，及其功能，是否满足上述要求？
     - 数据收集架构的商业价值研究。
@@ -122,6 +132,7 @@ b. 数据收集框架和h5的配合，及其功能，是否满足上述要求？
 - https://www.flurry.com/#
 - https://tongji.baidu.com/web5/welcome/login （可靠）百度
 - https://qidian.qq.com/analyze/monitoring.html 腾讯的网站统计
+
 
 
 
