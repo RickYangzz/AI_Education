@@ -18,7 +18,7 @@
 - 需要根据api的调用方提供的秘钥进行创建
 - 或者询问原作者
 
-## 测试结果
+## 百度AI测试结果
 ### 官方文档
 https://ai.baidu.com/ai-doc/OCR/hk3h7y2qq
 
