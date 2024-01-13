@@ -1,6 +1,4 @@
-from pprint import pprint
-
-f = open("practice.txt")
+f = open("words_repo/material.txt")
 total_str = f.read()
 f.close()
 
@@ -23,30 +21,28 @@ total_str = total_str.replace("\'ve","")
 total_str = total_str.replace("\'","")
 total_str = total_str.lower()
 total_array = total_str.split(" ")
-total_set = set(total_array)
 
-print(len(total_array))
-print(len(total_set))
+material_words_times = {}
+for _word in total_array:
+    if _word in material_words_times.keys():
+        material_words_times[_word] += 1
+    else:
+        material_words_times[_word] = 1
 
-#----------------------------------#
-f = open("word_times.txt")
-word_times = f.read()
+
+f = open("words_repo/unknown_words.txt")
+unknown_words = f.read()
 f.close()
-
 
 result = []
+unknown_words_array = unknown_words.split("\n")
+for _word in unknown_words_array:
+    word = _word.split(": ")[0]
+    if word in material_words_times.keys():
+        result.append(f"{word}: {material_words_times[word]}")
+    else:
+        result.append(f"{word}: no-times")
 
-vocabulary_array = word_times.split("\n")
-for i in range(len(vocabulary_array)):
-    word = vocabulary_array[i].split(",")[0]
-    if word in total_set: 
-        result.append(word + ": " + str(i+1))
-        total_set.remove(word)
-
-f = open("my_words.txt", "w")
+f = open("words_repo/unknown_words_times.txt", "w")
 f.write("\n".join(result))
 f.close()
-
-pprint(result)
-pprint(len(result))
-pprint(total_set)
