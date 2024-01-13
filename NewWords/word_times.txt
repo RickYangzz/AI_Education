@@ -557,6 +557,7 @@ french,322464
 attention,321923
 comes,321517
 music,321308
+musics,321308
 pulled,320967
 beyond,319299
 type,319134
@@ -742,6 +743,7 @@ except,244769
 lady,244718
 cook,244615
 development,244573
+developments,244573
 image,244434
 movement,244415
 term,244375
@@ -1500,6 +1502,7 @@ useful,130523
 seconds,130485
 shop,130429
 technology,130299
+technologies,130299
 dress,130137
 pair,129579
 guard,129514
@@ -1778,6 +1781,7 @@ ride,109992
 tradition,109795
 glad,109718
 association,109586
+associations,109586
 council,109321
 opinion,109252
 orders,109163
@@ -2039,6 +2043,8 @@ cash,95925
 plane,95858
 breathing,95802
 characters,95768
+characteristics,95768
+characterized,95768
 steel,95741
 louis,95727
 hey,95719
@@ -2128,6 +2134,7 @@ shouted,91225
 studied,91133
 belief,91089
 perspective,91068
+perspectives,91068
 dreams,91010
 loose,90975
 welcome,90949
@@ -4064,6 +4071,7 @@ secondary,43060
 matthew,43060
 perceived,43047
 vulnerable,43031
+vulnerability,43031
 worker,43005
 spaces,42977
 warriors,42942
@@ -4572,6 +4580,7 @@ ho,37007
 colony,37002
 genes,37000
 jersey,36994
+jerseys,36994
 dating,36984
 investors,36963
 treaty,36963
@@ -7766,6 +7775,7 @@ ducked,18912
 scratched,18912
 longest,18906
 understands,18905
+understanding,18905
 alleged,18904
 dana,18900
 confront,18899
@@ -10400,6 +10410,7 @@ dismay,12660
 papel,12660
 suelo,12658
 highlighted,12657
+highlighting,12657
 sponsored,12655
 plaster,12653
 spilling,12653
@@ -12400,6 +12411,7 @@ enlarged,9916
 ancestral,9913
 stalk,9911
 advancement,9911
+advancements,9911
 blir,9910
 wat,9910
 moan,9908
@@ -15747,6 +15759,7 @@ bij,6801
 incarnation,6801
 oversight,6801
 clarified,6800
+clarification,6800
 dreary,6800
 romano,6799
 depleted,6797
@@ -27265,6 +27278,7 @@ lavishly,2826
 shad,2825
 insolence,2825
 periodicals,2825
+periodically,2825
 abap,2824
 maddy,2824
 uruguay,2824
@@ -28364,6 +28378,7 @@ mei,2646
 continuar,2646
 resolver,2646
 relationship,2645
+relationships,2645
 artworks,2645
 fru,2645
 motorbike,2645
@@ -28456,6 +28471,7 @@ rosalie,2631
 conductors,2631
 forefathers,2631
 representa,2631
+representing,2631
 stanzas,2631
 argus,2630
 starbuck,2630
@@ -39582,6 +39598,7 @@ terracotta,1462
 vowing,1462
 wrested,1462
 conversation,1461
+conversations,1461
 eta,1461
 jovi,1461
 kaspar,1461
@@ -40978,6 +40995,7 @@ pasting,1376
 plagiarism,1376
 puedas,1376
 representar,1376
+representation,1376
 revoke,1376
 sortit,1376
 ticker,1376
@@ -42020,6 +42038,7 @@ exalt,1317
 gatekeepers,1317
 ligera,1317
 mnemonic,1317
+mnemonics,1317
 pé,1317
 reminiscing,1317
 speciation,1317
@@ -43953,6 +43972,7 @@ connaissait,1216
 deberíamos,1216
 dweller,1216
 encapsulate,1216
+encapsulates,1216
 experto,1216
 fiercer,1216
 ocupaba,1216

@@ -1,0 +1,42 @@
+association: 1780
+aid: 1856
+poetry: 2167
+phase: 2395
+visual: 2516
+landscape: 2558
+distinct: 3234
+capture: 3290
+medieval: 3499
+engage: 4026
+trigger: 4630
+renaissance: 5020
+distinctive: 5488
+distinguish: 5705
+victorian: 5762
+associate: 6027
+vivid: 6414
+reflections: 7462
+repetition: 8667
+adjustments: 11016
+paired: 12623
+flourishing: 15467
+tapestry: 16966
+reinforcing: 17082
+enhances: 18216
+signifies: 18575
+deepen: 19811
+hierarchies: 19928
+ingrained: 20046
+broaden: 25878
+associating: 27261
+visualizing: 31446
+showcasing: 38456
+mnemonic: 42022
+: 44240
+
+1000 ～ 3000     6/51   11% = 220    220
+3000 ～ 4000     3/20   15% = 150    370
+4000 ～ 5000     2/5    40% = 400    770
+5000 ～ 10000    8/28   28% = 1400   2170   Rick
+10000 ～ 20000   9/12   75% = 7500   9670   2024_01_10
+
