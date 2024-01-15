@@ -1,3 +1,5 @@
+print("start times unknown words.")
+
 f = open("words_repo/material.txt")
 total_str = f.read()
 f.close()
@@ -30,6 +32,7 @@ for _word in total_array:
         material_words_times[_word] = 1
 
 
+# save the times of unknown words
 f = open("words_repo/unknown_words.txt")
 unknown_words = f.read()
 f.close()
@@ -46,3 +49,23 @@ for _word in unknown_words_array:
 f = open("words_repo/unknown_words_times.txt", "w")
 f.write("\n".join(result))
 f.close()
+
+# save the times of material words
+f = open("words_repo/word_times.txt")
+word_times = f.read()
+f.close()
+
+result = []
+
+vocabulary_array = word_times.split("\n")
+
+for _word in vocabulary_array:
+    word = _word.split(",")[0]
+    if word in material_words_times.keys():
+        result.append(f"{word}: {material_words_times[word]}")
+
+f = open("words_repo/material_words_times.txt", "w")
+f.write("\n".join(result))
+f.close()
+
+print("end times unknown words.")

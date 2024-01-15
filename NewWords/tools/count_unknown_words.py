@@ -1,5 +1,8 @@
 from datetime import date
 
+print("start count unknown words.")
+
+
 # get file name. I need to learn new words at today.
 today = date.today()
 
@@ -44,3 +47,4 @@ f = open("words_repo/unknown_words.txt", "w")
 f.write("\n".join(result))
 f.close()
 
+print("end count material words.")

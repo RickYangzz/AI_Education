@@ -1,3 +1,5 @@
+print("start generate today's report.")
+
 # get all unknown words
 f = open("words_repo/unknown_words.txt")
 total_str = f.read()
@@ -79,7 +81,6 @@ f = open("words_repo/today_report.txt", "w")
 f.write("\n".join(result))
 f.close()
 
-
-
+print("end generate today's report.")
 
 

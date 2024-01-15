@@ -1544,6 +1544,7 @@ network,127163
 companies,126736
 britain,126686
 successful,126556
+successfully,126556
 patient,126541
 bought,126460
 mental,126372
@@ -1980,6 +1981,7 @@ false,99611
 bus,99313
 option,99277
 appropriate,99173
+appropriately,99173
 soup,99156
 follows,99142
 somebody,99059
@@ -2071,6 +2073,7 @@ offers,94829
 shoes,94753
 sunday,94727
 experiences,94719
+experiencing,94719
 require,94709
 etc,94697
 hundreds,94672
@@ -2158,6 +2161,8 @@ congress,90046
 reaction,90028
 sand,90011
 alternative,89987
+alternatives,89987
+alternatively,89987
 bob,89954
 pool,89903
 jane,89847
@@ -2739,6 +2744,7 @@ goals,68230
 dressing,68229
 coconut,68194
 difficulty,68154
+difficulties,68154
 organized,68136
 choices,68068
 controlled,68041
@@ -4281,6 +4287,7 @@ murdered,40468
 anthony,40420
 engagement,40393
 transformed,40381
+transformations,40381
 dozens,40373
 ryan,40366
 cultures,40361
@@ -4641,6 +4648,7 @@ gentlemen,36451
 critique,36429
 earliest,36420
 functional,36419
+functionality,36419
 attracted,36408
 laboratory,36407
 breaks,36392
@@ -4801,6 +4809,7 @@ tended,34958
 promote,34947
 tommy,34942
 communicate,34941
+communicates,34941
 assumption,34941
 arrow,34931
 echo,34931
@@ -4808,6 +4817,7 @@ celebrated,34902
 vessels,34891
 matrix,34889
 demonstrate,34884
+demonstrates,34884
 fury,34878
 abroad,34859
 nicholas,34847
@@ -7152,6 +7162,7 @@ blamed,21288
 thanked,21286
 salary,21282
 calculation,21281
+calculations,21281
 quelques,21280
 stealing,21279
 determining,21274
@@ -7281,6 +7292,7 @@ depicted,20707
 murders,20697
 earthquake,20697
 respective,20695
+respectively,20695
 coffin,20688
 thoughtful,20684
 posture,20675
@@ -7459,6 +7471,7 @@ suo,20028
 rifles,20017
 thai,20016
 requirement,20014
+requirements,20014
 aggression,20013
 tis,20011
 edged,20007
@@ -8988,6 +9001,7 @@ teens,15562
 bucks,15554
 occurrence,15550
 incorporate,15549
+incorporating,15549
 pyramid,15547
 balloon,15543
 stan,15543
@@ -10697,6 +10711,7 @@ applicable,12225
 strewn,12224
 cavity,12223
 negotiation,12223
+negotiations,12223
 pesar,12219
 gallons,12218
 shove,12214
@@ -13060,6 +13075,7 @@ hastings,9166
 skepticism,9166
 unison,9166
 computation,9166
+computations,9166
 palate,9165
 bun,9164
 chickpeas,9164
@@ -15066,6 +15082,7 @@ condensed,7314
 anita,7313
 erase,7312
 implements,7312
+implementation,7312
 leben,7312
 newport,7311
 camped,7309
@@ -15141,6 +15158,7 @@ asthma,7260
 wallpaper,7259
 belinda,7258
 humorous,7258
+humorously,7258
 distortion,7257
 destino,7256
 packaged,7256
@@ -19641,6 +19659,7 @@ gentleness,4786
 bandaged,4785
 clustering,4785
 concise,4785
+concisely,4785
 memorize,4785
 sequel,4785
 cylinders,4783
@@ -23111,6 +23130,7 @@ stirling,3700
 climatic,3700
 distintas,3700
 invocation,3700
+invocations,3700
 chided,3699
 recibir,3699
 nez,3699
@@ -28146,6 +28166,7 @@ whirring,2680
 axons,2679
 gloriously,2679
 philosophic,2679
+philosophical,2679
 prata,2679
 thong,2679
 philology,2679
@@ -28189,6 +28210,7 @@ slade,2674
 dregs,2674
 mainstay,2674
 possibilité,2674
+possibilities,2674
 napier,2673
 bounces,2673
 dudas,2673
@@ -31046,6 +31068,7 @@ benefiting,2248
 bästa,2248
 cram,2248
 crossword,2248
+crosswords,2248
 foolproof,2248
 meteor,2248
 needlessly,2248
@@ -32028,6 +32051,7 @@ valentin,2129
 concubine,2129
 hitching,2129
 inundated,2129
+inundates,2129
 organizes,2129
 bonanno,2128
 hertz,2128
@@ -33838,6 +33862,7 @@ werke,1919
 ganzen,1919
 kilometre,1919
 multiplier,1919
+multiplication,1919
 subsets,1919
 eltern,1918
 laure,1918
@@ -34029,6 +34054,7 @@ nucl,1901
 auxiliaries,1901
 cervix,1901
 corresponde,1901
+corresponding,1901
 cubicles,1901
 husbandry,1901
 suponía,1901
@@ -38490,6 +38516,7 @@ shortfall,1539
 tenu,1539
 topographic,1539
 deprecating,1538
+deprecatingly,1538
 audra,1538
 federalist,1538
 frodo,1538
@@ -43231,6 +43258,8 @@ intercepts,1255
 interlaced,1255
 marqués,1255
 recurs,1255
+recursing,1255
+recursion,1255
 resonating,1255
 sorority,1255
 största,1255
