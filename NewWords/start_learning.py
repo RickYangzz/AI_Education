@@ -10,11 +10,3 @@ new_file_name = today.strftime("user/%Y_%m_%d_new_words.txt")
 if not os.path.exists(new_file_name):
     f = open(new_file_name, "x")
     f.close()
-
-
-
-
-
-
-
-

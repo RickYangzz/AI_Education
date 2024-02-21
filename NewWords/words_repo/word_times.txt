@@ -1394,6 +1394,7 @@ interesting,141230
 sexual,141196
 finding,140959
 significant,140949
+significance,140949
 drew,140861
 hardly,140768
 produce,140722
@@ -2506,6 +2507,7 @@ factor,76195
 beings,76169
 practices,76082
 explanation,76018
+explanations,76018
 perform,75951
 yard,75950
 contain,75933
@@ -3928,6 +3930,7 @@ encourage,45177
 squeezed,45169
 bottles,45157
 consistent,45149
+consistently,45149
 vehicles,45127
 lawrence,45123
 mounted,45115
@@ -9814,6 +9817,7 @@ verge,13827
 pulp,13826
 catholics,13825
 comprehend,13825
+comprehensive,13825
 aroused,13823
 shipped,13822
 haul,13818
@@ -20487,6 +20491,7 @@ byzantium,4484
 mural,4484
 ware,4484
 completes,4483
+completeness,4483
 lesion,4483
 mayhem,4483
 aphrodite,4482
