@@ -158,7 +158,7 @@ a. h5架构的研究，经典应用的调查和使用，其背后的技术架构
     - 市场调查
 - 准备 html5网页的响应式布局方案，以及不同设备上的响应式设计。
 - 后续各种跨端架构，评审，过渡
-    - http://www.phppan.com/2022/10/kd2022/
+    - http://www.phppan.com/2022/10/kd2022/ 跨端架构的技术选型
     - https://www.electronjs.org/
     - https://reactnative.dev/ 优先考虑（后续升级多端：浏览器、app、小程序）
     - https://flutter.dev/ dart语言
